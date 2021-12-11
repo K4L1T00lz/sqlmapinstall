@@ -1,0 +1,1 @@
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev sudo mv sqlmap-dev /opt wget https://raw.githubusercontent.com/K4L1T00lz/sqlmapinstall/main/sqlmap.sh sudo mv sqlmap.sh /usr/bin/sqlmap && sudo chmod +x /usr/bin/sqlmap
